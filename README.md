@@ -41,7 +41,7 @@ https://github.com/user-attachments/assets/5e6b1f8d-8d1b-49e2-b4dc-49fcf0698c2b
 
 ---
 
-## ✨ Advanced Features
+## Advanced Features
 
 * 🔐 **Dynamic Cryptographic Engine:** Instantly swap between `MD5`, `SHA1`, `SHA256` (Default), `SHA384`, and `SHA512` algorithms on the fly.
 * 🔍 **Deep Forensic Directory Scanning:** Bypasses locked files and ignores Windows junction loops (`ReparsePoints`). Accurately calculates exact byte-for-byte sizes matching Windows Explorer.
