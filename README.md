@@ -46,7 +46,7 @@ https://github.com/user-attachments/assets/5e6b1f8d-8d1b-49e2-b4dc-49fcf0698c2b
 * 🔐 **Dynamic Cryptographic Engine:** Instantly swap between `MD5`, `SHA1`, `SHA256` (Default), `SHA384`, and `SHA512` algorithms on the fly.
 * 🔍 **Deep Forensic Directory Scanning:** Bypasses locked files and ignores Windows junction loops (`ReparsePoints`). Accurately calculates exact byte-for-byte sizes matching Windows Explorer.
 * 📊 **Cross-Reference Directory Comparison:** Compares entire directory trees to find matching hashes, security mismatches, and missing files, generating a full statistical breakdown.
-* 📡 **Live Surveillance Dashboard:** A real-time memory monitor that tracks file system events without creating massive log files. Detects:
+* 📡 **Live Surveillance Dashboard:** A real-time memory monitor that tracks file system events without creating massive log files.
 * File/Folder Creation, Deletion, and Renaming.
 * Content Modifications.
 * Security Attribute Changes (e.g., when a file is locked to `ReadOnly` or hidden).
@@ -71,7 +71,7 @@ You can download Hashmonic using either the standard Release archive or via Git.
 
 ### Option A: Standard Download (Recommended)
 1. Navigate to the **Releases** section on the right side of this repository.
-2. Download the latest `hashmonic_portable.zip` file and extract it anywhere on your computer.
+2. Download the latest `hashmonic_portable.7z` file and extract it anywhere on your computer.
 
 ### Option B: For Power Users (Git)
 1. Open your terminal and clone the repository directly:
@@ -79,13 +79,6 @@ You can download Hashmonic using either the standard Release archive or via Git.
 ```
  git clone https://github.com/maivina/hashmonic_portable.git
 ```
-
-### Initialization (Required Once)
-
-2. **Auto-Repair:** Open the folder and double-click `Fix_Shortcut_Path.bat`. This will dynamically sync the shortcut to your current directory, force Administrator privileges, and launch the tool safely.
-3. **Standard Launch:** For all future uses, simply double-click the updated `Launch Tool.lnk` shortcut!
-
-*(Note: If prompted by Windows Execution Policies, you may need to open PowerShell as Admin and run `Set-ExecutionPolicy RemoteSigned` once).*
 
 ### Initialization (Required Once)
 
