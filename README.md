@@ -16,7 +16,7 @@
 ---
 
 ## 📖 Table of Contents
-* [🎯 Overview](#🎯 Overview)
+* [Overview](#overview)
 * [🎬 See it in Action]
 * [✨ Advanced Features]
 * [📂 The Portable Architecture]
@@ -25,7 +25,7 @@
 
 ---
 
-## 🎯 Overview
+## Overview
 
 **Hashmonic** is a professional-grade file forensics and integrity monitoring tool. Designed for penetration testers, sysadmins, and power users, it provides deep Windows file system integration without the need for third-party `C#` compilers or heavy installations.
 
