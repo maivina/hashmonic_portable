@@ -20,7 +20,7 @@
 * [See it in Action](#see-it-in-action)
 * [Advanced Features](#advanced-features)
 * [The Portable Architecture](#the-portable-architecture)
-* [Installation & Usage](#installation-&-usage)
+* [Installation and Usage](#installation-and-usage)
 * [Interface Modules](#interface-modules)
 
 ---
@@ -65,7 +65,7 @@ Instead of manually editing Windows shortcut targets, the included `Fix_Shortcut
 
 ---
 
-## Installation & Usage
+## Installation and Usage
 
 1. **Download the Suite:** Click the green `Code` button at the top of this repository and select **Download ZIP**. Extract the folder anywhere on your computer.
 2. **Initialize Auto-Repair:** Double-click `Fix_Shortcut_Path.bat`. This will sync the shortcut to your current directory and launch the tool safely.
