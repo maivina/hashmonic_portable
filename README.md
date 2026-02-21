@@ -78,6 +78,8 @@ You can download Hashmonic using either the standard Release archive or via Git.
    ```bash
    git clone https://github.com/maivina/hashmonic_portable.git
 ```
+
+
 ```
 
 ### Initialization (Required Once)
