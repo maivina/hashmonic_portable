@@ -19,9 +19,9 @@
 * [Overview](#overview)
 * [See it in Action](#see-it-in-action)
 * [Advanced Features](#advanced-features)
-* [The Portable Architecture](#overview)
-* [Installation & Usage](#overview)
-* [Interface Modules](#overview)
+* [The Portable Architecture](#the-portable-architecture)
+* [Installation & Usage](#installation-&-usage)
+* [Interface Modules](#interface-modules)
 
 ---
 
@@ -57,7 +57,7 @@ https://github.com/user-attachments/assets/5e6b1f8d-8d1b-49e2-b4dc-49fcf0698c2b
 
 ---
 
-## 📂 The Portable Architecture
+## The Portable Architecture
 
 Hashmonic is designed to be **100% self-healing and portable**. You can place the application folder on a USB drive, move it across different networks, or shift it between drives.
 
@@ -65,7 +65,7 @@ Instead of manually editing Windows shortcut targets, the included `Fix_Shortcut
 
 ---
 
-## 🚀 Installation & Usage
+## Installation & Usage
 
 1. **Download the Suite:** Click the green `Code` button at the top of this repository and select **Download ZIP**. Extract the folder anywhere on your computer.
 2. **Initialize Auto-Repair:** Double-click `Fix_Shortcut_Path.bat`. This will sync the shortcut to your current directory and launch the tool safely.
@@ -75,7 +75,7 @@ Instead of manually editing Windows shortcut targets, the included `Fix_Shortcut
 
 ---
 
-## 🖥️ Interface Modules
+## Interface Modules
 
 | Module ID | Module Name | Forensic Function |
 | --- | --- | --- |
