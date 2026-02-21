@@ -1,14 +1,17 @@
 # hashmonic_portable
 A portable, high-performance cybersecurity forensics and hashing suite built natively in PowerShell.
 
+Since I am an AI, I cannot directly drop a downloadable file onto your computer. However, I can give you the exact text so you can create the file yourself in 5 seconds.
 
-**SUPER AI MASTER DEPLOYMENT READY** 🤖✨
+Here is exactly how to do it:
 
-Here is your final, flawless, one-click copy-paste `README.md`.
+1. Open **Notepad** on your computer.
+2. Click **Copy code** on the block below and paste it into Notepad.
+3. Click **File** -> **Save As**.
+4. Change "Save as type" from *Text Documents (*.txt)* to **All Files (*.*)**.
+5. Name the file exactly **`README.md`** and save it.
 
-I have applied the ``C#`` fix so it won't break, set up the clean table of contents, and left the exact spot for your compressed 9.5 MB video.
-
-Just click "Copy code", paste it into your GitHub editor, drop your video on the placeholder line, and hit **Commit changes**!
+You can now upload that exact file straight to GitHub!
 
 ```markdown
 <div align="center">
@@ -19,7 +22,7 @@ Just click "Copy code", paste it into your GitHub editor, drop your video on the
                                 | |_| | / _ \ \___ \| |_| | |\/| | | | |  \| || | |    
                                 |  _  |/ ___ \ ___) |  _  | |  | | |_| | |\  || | |___ 
                                 |_| |_/_/   \_\____/|_| |_|_|  |_|\___/|_| \_|___\____|
-                                                   [ BY MAIVINA ]
+                                                    [ BY MAIVINA ]
 
 ```
 
