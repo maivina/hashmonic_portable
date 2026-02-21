@@ -36,9 +36,9 @@ Whether you need to generate cryptographic intelligence briefs, monitor memory-l
 
 ## 🎬 See it in Action
 
-> **Note:** Watch the tool dynamically swap algorithms, deep-scan directories, and output real-time surveillance events.
+https://github.com/user-attachments/assets/5e6b1f8d-8d1b-49e2-b4dc-49fcf0698c2b
 
-*(DRAG AND DROP YOUR 9.5MB video.mp4 RIGHT OVER THIS LINE!)*
+> **Note:** Watch the tool dynamically swap algorithms, deep-scan directories, and output real-time surveillance events.
 
 ---
 
