@@ -18,10 +18,10 @@
 ## 📖 Table of Contents
 * [Overview](#overview)
 * [See it in Action](#see-it-in-action)
-* [✨ Advanced Features](#overview)
-* [📂 The Portable Architecture](#overview)
-* [🚀 Installation & Usage](#overview)
-* [🖥️ Interface Modules](#overview)
+* [Advanced Features](#advanced_features)
+* [The Portable Architecture](#overview)
+* [Installation & Usage](#overview)
+* [Interface Modules](#overview)
 
 ---
 
