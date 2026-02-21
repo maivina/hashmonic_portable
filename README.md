@@ -1,15 +1,15 @@
-# hashmonic_portable
-A portable, high-performance cybersecurity forensics and hashing suite built natively in PowerShell.
+```markdown
+<div align="center">
 
-```
+```text
                                  _   _    _    ____  _   _ __  __  ___  _   _ ___ ____ 
                                 | | | |  / \  / ___|| | | |  \/  |/ _ \| \ | |_ _/ ___|
                                 | |_| | / _ \ \___ \| |_| | |\/| | | | |  \| || | |    
                                 |  _  |/ ___ \ ___) |  _  | |  | | |_| | |\  || | |___ 
                                 |_| |_/_/   \_\____/|_| |_|_|  |_|\___/|_| \_|___\____|
                                                    [ BY MAIVINA ]
-```
 
+```
 
 **A Portable, High-Performance Cybersecurity Forensics & Hashing Suite built natively in PowerShell.**
 
@@ -96,3 +96,7 @@ Instead of manually editing Windows shortcut targets, the included `Fix_Shortcut
 <div align="center">
 <i>Engineered by Maivina • System Integrity Verified</i>
 </div>
+
+```
+
+```
