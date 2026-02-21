@@ -75,8 +75,18 @@ You can download Hashmonic using either the standard Release archive or via Git.
 
 ### Option B: For Power Users (Git)
 1. Open your terminal and clone the repository directly:
-   bash
+   ```bash
    git clone [https://github.com/YOUR-USERNAME-HERE/Hashmonic-Portable.git](https://github.com/YOUR-USERNAME-HERE/Hashmonic-Portable.git)
+
+```
+```
+
+### Initialization (Required Once)
+
+2. **Auto-Repair:** Open the folder and double-click `Fix_Shortcut_Path.bat`. This will dynamically sync the shortcut to your current directory, force Administrator privileges, and launch the tool safely.
+3. **Standard Launch:** For all future uses, simply double-click the updated `Launch Tool.lnk` shortcut!
+
+*(Note: If prompted by Windows Execution Policies, you may need to open PowerShell as Admin and run `Set-ExecutionPolicy RemoteSigned` once).*
 
 ### Initialization (Required Once)
 
