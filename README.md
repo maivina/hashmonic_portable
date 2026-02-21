@@ -16,8 +16,7 @@
 ---
 
 ## 📖 Table of Contents
-
-* [🎯 Overview]
+* [🎯 Overview](#overview)
 * [🎬 See it in Action]
 * [✨ Advanced Features]
 * [📂 The Portable Architecture]
