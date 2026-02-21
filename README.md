@@ -76,8 +76,9 @@ You can download Hashmonic using either the standard Release archive or via Git.
 ### Option B: For Power Users (Git)
 1. Open your terminal and clone the repository directly:
 bash
-   git clone https://github.com/maivina/hashmonic_portable.git
+  
 ```
+ git clone https://github.com/maivina/hashmonic_portable.git
 ```
 
 ### Initialization (Required Once)
