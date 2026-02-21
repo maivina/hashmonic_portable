@@ -67,9 +67,21 @@ Instead of manually editing Windows shortcut targets, the included `Fix_Shortcut
 
 ## Installation and Usage
 
-1. **Download the Suite:** On the right side of the GitHub repository page, click on **Releases** and download the `hashmonic_portable.7z` file. Extract the folder anywhere on your computer.
-2. **Initialize Auto-Repair:** Double-click `Fix_Shortcut_Path.bat`. This will sync the shortcut to your current directory and launch the tool safely.
-3. **Standard Launch:** For future use, simply double-click the `Launch Tool.lnk` shortcut.
+You can download Hashmonic using either the standard Release archive or via Git.
+
+### Option A: Standard Download (Recommended)
+1. Navigate to the **Releases** section on the right side of this repository.
+2. Download the latest `hashmonic_portable.zip` file and extract it anywhere on your computer.
+
+### Option B: For Power Users (Git)
+1. Open your terminal and clone the repository directly:
+   bash
+   git clone [https://github.com/YOUR-USERNAME-HERE/Hashmonic-Portable.git](https://github.com/YOUR-USERNAME-HERE/Hashmonic-Portable.git)
+
+### Initialization (Required Once)
+
+2. **Auto-Repair:** Open the folder and double-click `Fix_Shortcut_Path.bat`. This will dynamically sync the shortcut to your current directory, force Administrator privileges, and launch the tool safely.
+3. **Standard Launch:** For all future uses, simply double-click the updated `Launch Tool.lnk` shortcut!
 
 *(Note: If prompted by Windows Execution Policies, you may need to open PowerShell as Admin and run `Set-ExecutionPolicy RemoteSigned` once).*
 
