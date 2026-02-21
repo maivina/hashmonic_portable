@@ -1,18 +1,6 @@
 # hashmonic_portable
 A portable, high-performance cybersecurity forensics and hashing suite built natively in PowerShell.
 
-Since I am an AI, I cannot directly drop a downloadable file onto your computer. However, I can give you the exact text so you can create the file yourself in 5 seconds.
-
-Here is exactly how to do it:
-
-1. Open **Notepad** on your computer.
-2. Click **Copy code** on the block below and paste it into Notepad.
-3. Click **File** -> **Save As**.
-4. Change "Save as type" from *Text Documents (*.txt)* to **All Files (*.*)**.
-5. Name the file exactly **`README.md`** and save it.
-
-You can now upload that exact file straight to GitHub!
-
 ```markdown
 <div align="center">
 
