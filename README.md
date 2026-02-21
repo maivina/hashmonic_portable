@@ -1,12 +1,13 @@
 ```markdown
+
+
+```
                                  _   _    _    ____  _   _ __  __  ___  _   _ ___ ____ 
                                 | | | |  / \  / ___|| | | |  \/  |/ _ \| \ | |_ _/ ___|
                                 | |_| | / _ \ \___ \| |_| | |\/| | | | |  \| || | |    
                                 |  _  |/ ___ \ ___) |  _  | |  | | |_| | |\  || | |___ 
                                 |_| |_/_/   \_\____/|_| |_|_|  |_|\___/|_| \_|___\____|
                                                    [ BY MAIVINA ]
-
-```
 
 **A Portable, High-Performance Cybersecurity Forensics & Hashing Suite built natively in PowerShell.**
 
