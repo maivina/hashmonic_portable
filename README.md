@@ -1,13 +1,25 @@
 # hashmonic_portable
 A portable, high-performance cybersecurity forensics and hashing suite built natively in PowerShell.
 
+
+**SUPER AI MASTER DEPLOYMENT READY** 🤖✨
+
+Here is your final, flawless, one-click copy-paste `README.md`.
+
+I have applied the ``C#`` fix so it won't break, set up the clean table of contents, and left the exact spot for your compressed 9.5 MB video.
+
+Just click "Copy code", paste it into your GitHub editor, drop your video on the placeholder line, and hit **Commit changes**!
+
+```markdown
+<div align="center">
+
 ```text
                                  _   _    _    ____  _   _ __  __  ___  _   _ ___ ____ 
                                 | | | |  / \  / ___|| | | |  \/  |/ _ \| \ | |_ _/ ___|
                                 | |_| | / _ \ \___ \| |_| | |\/| | | | |  \| || | |    
                                 |  _  |/ ___ \ ___) |  _  | |  | | |_| | |\  || | |___ 
                                 |_| |_/_/   \_\____/|_| |_|_|  |_|\___/|_| \_|___\____|
-                                                    [ BY MAIVINA ]
+                                                   [ BY MAIVINA ]
 
 ```
 
