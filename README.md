@@ -14,15 +14,15 @@ Here is exactly how to do it:
 You can now upload that exact file straight to GitHub!
 
 ```markdown
+<div align="center">
 
-
-```
+```text
                                  _   _    _    ____  _   _ __  __  ___  _   _ ___ ____ 
                                 | | | |  / \  / ___|| | | |  \/  |/ _ \| \ | |_ _/ ___|
                                 | |_| | / _ \ \___ \| |_| | |\/| | | | |  \| || | |    
                                 |  _  |/ ___ \ ___) |  _  | |  | | |_| | |\  || | |___ 
                                 |_| |_/_/   \_\____/|_| |_|_|  |_|\___/|_| \_|___\____|
-                                                    [ BY MAIVINA ]
+                                                   [ BY MAIVINA ]
 
 ```
 
@@ -111,7 +111,3 @@ Instead of manually editing Windows shortcut targets, the included `Fix_Shortcut
 <div align="center">
 <i>Engineered by Maivina • System Integrity Verified</i>
 </div>
-
-```
-
-```
