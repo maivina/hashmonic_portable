@@ -1,8 +1,5 @@
-![PowerShell](https://img.shields.io/badge/Built%20With-PowerShell-blue)
+![PowerShell](https://img.shields.io/badge/Built%20With-PowerShell-blue) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey) ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 
-![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
-
-![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 ```markdown
 
                           _   _    _    ____  _   _ __  __  ___  _   _ ___ ____ 
