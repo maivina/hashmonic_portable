@@ -67,7 +67,7 @@ Instead of manually editing Windows shortcut targets, the included `Fix_Shortcut
 
 ## Installation and Usage
 
-1. **Download the Suite:** Click the green `Code` button at the top of this repository and select **Download ZIP**. Extract the folder anywhere on your computer.
+1. **Download the Suite:** On the right side of the GitHub repository page, click on **Releases** and download the `hashmonic_portable.zip` file. Extract the folder anywhere on your computer.
 2. **Initialize Auto-Repair:** Double-click `Fix_Shortcut_Path.bat`. This will sync the shortcut to your current directory and launch the tool safely.
 3. **Standard Launch:** For future use, simply double-click the `Launch Tool.lnk` shortcut.
 
