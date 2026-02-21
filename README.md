@@ -3,7 +3,7 @@ A portable, high-performance cybersecurity forensics and hashing suite built nat
 
 
 
-```text
+```
                                  _   _    _    ____  _   _ __  __  ___  _   _ ___ ____ 
                                 | | | |  / \  / ___|| | | |  \/  |/ _ \| \ | |_ _/ ___|
                                 | |_| | / _ \ \___ \| |_| | |\/| | | | |  \| || | |    
