@@ -14,9 +14,9 @@ Here is exactly how to do it:
 You can now upload that exact file straight to GitHub!
 
 ```markdown
-<div align="center">
 
-```text
+
+```
                                  _   _    _    ____  _   _ __  __  ___  _   _ ___ ____ 
                                 | | | |  / \  / ___|| | | |  \/  |/ _ \| \ | |_ _/ ___|
                                 | |_| | / _ \ \___ \| |_| | |\/| | | | |  \| || | |    
