@@ -17,11 +17,11 @@
 
 ## 📖 Table of Contents
 * [Overview](#overview)
-* [🎬 See it in Action]
-* [✨ Advanced Features]
-* [📂 The Portable Architecture]
-* [🚀 Installation & Usage]
-* [🖥️ Interface Modules]
+* [See it in Action](#see-it-in-action)
+* [✨ Advanced Features](#overview)
+* [📂 The Portable Architecture](#overview)
+* [🚀 Installation & Usage](#overview)
+* [🖥️ Interface Modules](#overview)
 
 ---
 
@@ -33,7 +33,7 @@ Whether you need to generate cryptographic intelligence briefs, monitor memory-l
 
 ---
 
-## 🎬 See it in Action
+## See it in Action
 
 https://github.com/user-attachments/assets/5e6b1f8d-8d1b-49e2-b4dc-49fcf0698c2b
 
