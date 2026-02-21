@@ -1,8 +1,7 @@
 # hashmonic_portable
 A portable, high-performance cybersecurity forensics and hashing suite built natively in PowerShell.
 
-```markdown
-<div align="center">
+
 
 ```text
                                  _   _    _    ____  _   _ __  __  ___  _   _ ___ ____ 
