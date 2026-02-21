@@ -93,7 +93,3 @@ Instead of manually editing Windows shortcut targets, the included `Fix_Shortcut
 <div align="center">
 <i>Engineered by Maivina • System Integrity Verified</i>
 </div>
-
-```
-
-```
