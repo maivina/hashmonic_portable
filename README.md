@@ -1,11 +1,14 @@
-markdown
-                                 _   _    _    ____  _   _ __  __  ___  _   _ ___ ____ 
-                                | | | |  / \  / ___|| | | |  \/  |/ _ \| \ | |_ _/ ___|
-                                | |_| | / _ \ \___ \| |_| | |\/| | | | |  \| || | |    
-                                |  _  |/ ___ \ ___) |  _  | |  | | |_| | |\  || | |___ 
-                                |_| |_/_/   \_\____/|_| |_|_|  |_|\___/|_| \_|___\____|
-                                                   [ BY MAIVINA ]
-                                                   
+```markdown
+
+         _   _    _    ____  _   _ __  __  ___  _   _ ___ ____ 
+        | | | |  / \  / ___|| | | |  \/  |/ _ \| \ | |_ _/ ___|
+        | |_| | / _ \ \___ \| |_| | |\/| | | | |  \| || | |    
+        |  _  |/ ___ \ ___) |  _  | |  | | |_| | |\  || | |___ 
+        |_| |_/_/   \_\____/|_| |_|_|  |_|\___/|_| \_|___\____|
+                                                    [ BY MAIVINA ]
+
+```
+
 **A Portable, High-Performance Cybersecurity Forensics & Hashing Suite built natively in PowerShell.**
 
 </div>
@@ -14,12 +17,12 @@ markdown
 
 ## 📖 Table of Contents
 
-* [🎯 Overview](https://www.google.com/search?q=%23-overview)
-* [🎬 See it in Action](https://www.google.com/search?q=%23-see-it-in-action)
-* [✨ Advanced Features](https://www.google.com/search?q=%23-advanced-features)
-* [📂 The Portable Architecture](https://www.google.com/search?q=%23-the-portable-architecture)
-* [🚀 Installation & Usage](https://www.google.com/search?q=%23-installation--usage)
-* [🖥️ Interface Modules](https://www.google.com/search?q=%23%EF%B8%8F-interface-modules)
+* [🎯 Overview]
+* [🎬 See it in Action]
+* [✨ Advanced Features]
+* [📂 The Portable Architecture]
+* [🚀 Installation & Usage]
+* [🖥️ Interface Modules]
 
 ---
 
