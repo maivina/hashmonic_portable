@@ -69,25 +69,35 @@ Instead of manually editing Windows shortcut targets, the included `Fix_Shortcut
 
 ## Installation and Usage
 
-You can download Hashmonic using either the standard Release archive or via Git.
+You can download Hashmonic using either the standard Release archive or via Git. Choose **one** of the download methods below, then proceed to the setup steps.
 
-### Option A: Standard Download (Recommended)
+### Step 1: Download the Tool
+
+**Option A: Standard Download (Recommended)**
 1. Navigate to the **Releases** section on the right side of this repository.
-2. Download the latest `hashmonic_portable.7z` file and extract it anywhere on your computer.
+2. Download the latest `hashmonic_portable.7z` file and extract it to your preferred location on your computer.
 
-### Option B: For Power Users (Git)
+**Option B: For Power Users (Git)**
 1. Open your terminal and clone the repository directly:
-
 ```
  git clone https://github.com/maivina/hashmonic_portable.git
 ```
 
-### Initialization (Required Once)
+### Step 2: Initialization (Required Setup)
 
-2. **Auto-Repair:** Open the folder and double-click `Fix_Shortcut_Path.bat`. This will dynamically sync the shortcut to your current directory, force Administrator privileges, and launch the tool safely.
-3. **Standard Launch:** For all future uses, simply double-click the updated `Launch Tool.lnk` shortcut!
+Regardless of how you downloaded Hashmonic, you **must** run the setup script before using the tool for the first time.
 
-*(Note: If prompted by Windows Execution Policies, you may need to open PowerShell as Admin and run `Set-ExecutionPolicy RemoteSigned` once).*
+1. **Auto-Repair Setup:** Open your Hashmonic folder and double-click `Fix_Shortcut_Path.bat`.
+* **What this does:** This dynamically syncs the shortcut to your current directory, forces Administrator privileges, and safely launches the tool.
+* **Important:** If you ever move the Hashmonic folder to a new location on your computer, the shortcut path will break. You must run `Fix_Shortcut_Path.bat` once in the new location to repair it.
+
+
+
+### Step 3: Everyday Usage
+
+1. **Standard Launch:** For all future uses, simply double-click the updated `Launch Tool.lnk` shortcut!
+
+> **Note:** If prompted by Windows Execution Policies during setup, you may need to open PowerShell as an Administrator and run `Set-ExecutionPolicy RemoteSigned` once.
 
 ---
 
